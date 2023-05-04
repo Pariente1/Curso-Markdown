@@ -1,3 +1,7 @@
+### Para previsualizar se usa en vscode F1 y de ahi en el buscador pones "markdown" luego le das en Open Preview. Pones la ventana en dos pares como se muestra en la imagen y la agregas en la pre-visualisacion.
+
+![Ventana](ventanaInternaVscode.png)
+
 <!-- Asi se ponen los comentarios -->
 # h1 
 ## h2
