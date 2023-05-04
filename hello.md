@@ -58,7 +58,39 @@ print("Hello world")
 ```html
 <h1> hello world <h1>
 ```
-<!-- para hacer tablas se usan (||) y (--) -->
+<!-- para hacer tablas se usan (||) y (--) procurando tener una linea abajo que separe el titulo del contenido -->
+
+| Tables            | Are          | Cool |
+|-------------------|:------------:|-----:| 
+| col 3 is          | right aligned|$1600 |
+| col 2 is          | centered     |$12   |
+| zebra lion cat    | are neat     |$1    |
+| col 3 is          | -            |$0    |
+
+|itulo1 |itulo2    |
+|-------|:--------:|
+| ase 1 | ase2     |
+
+<!--Podemos llamar imagenes de esta manera, tanto como locales como URL. Es importante poner el (!) al inicio y que esten pegados de esta manera  
+![nombreDeLaImagen](enlace)-->
+
+---
+
+![Visual studio code logo](https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYtI_MIrVq4WfN7M.qN7gV3ayNiQeJK6Uxg366DH3bnRmVWMFBWWyXonVyp6x0RYE1elb_jkQQQH7FwsNBBqQO4iFrOIwXtaGkMjmrISfBfgMsCEGwIBPArmzCSVWYx1zA--&format=source) 
+
+---
+
+<!--para cargarlo localmente solo hay que ponerlo en la misma carpeta y llamarlo como en html. Tambien se le puede poner un titulo usando las comillas ("")-->
+
+![vscode](vscode.png "Logo de vscode")
+
+<!-- Github Markdown | para tener un "to do". Esto solo se puede ver en github. Para poder ver la previsualizacion se necesita subir a github -->
+* [x] Task 1
+* [] Task 2
+* [] Task 3
+* [x] Task 4
+
+
 
 
 
