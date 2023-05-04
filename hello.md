@@ -93,7 +93,7 @@ print("Hello world")
 
 <!-- Para etiquetar a alguien se pone un arroba @ y luego el usuario de github  -->
 
-@faztweb Gracias, esto lo hice gracias a tu curso de youtube :smile:.
+@FaztWeb Gracias, esto lo hice gracias a tu curso de youtube :smile:.
 
 
 
