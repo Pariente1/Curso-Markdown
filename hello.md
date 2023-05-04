@@ -84,13 +84,16 @@ print("Hello world")
 
 ![vscode](vscode.png "Logo de vscode")
 
-<!-- Github Markdown | para tener un "to do". Esto solo se puede ver en github. Para poder ver la previsualizacion se necesita subir a github -->
+<!-- Github Markdown | para tener un "to do". Esto solo se puede ver en github. Para poder ver la previsualizacion se necesita subir a github. Se necesita un espacio en blanco entre [ ] y dentro una x para marcar completado [x] -->
+
 * [x] Task 1
 * [ ] Task 2
 * [ ] Task 3
 * [x] Task 4
 
+<!-- Para etiquetar a alguien se pone un arroba @ y luego el usuario de github  -->
 
+@faztweb Gracias, esto lo hice gracias a tu curso de youtube :smile:.
 
 
 
