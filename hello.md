@@ -86,8 +86,8 @@ print("Hello world")
 
 <!-- Github Markdown | para tener un "to do". Esto solo se puede ver en github. Para poder ver la previsualizacion se necesita subir a github -->
 * [x] Task 1
-* [] Task 2
-* [] Task 3
+* [ ] Task 2
+* [ ] Task 3
 * [x] Task 4
 
 
